@@ -1,0 +1,174 @@
+{
+  "Avicii": {
+    "songs": [
+      {
+        "title": "Wake Me Up",
+        "id": "Wake_Me_Up",
+        "questions": [
+          "What is the color of the forest?",
+          "what are the type of trees?"
+        ],
+        "prompt": "Award-winning cinematography, a still from a film shot on a vhs camcorder, abstract shot of a {user_input1} forest, vhs camcorder, tall {user_input2} as if someone is being followed, infinite forest, dark, dreamy, cinematic"
+      },
+      {
+        "title": "Levels",
+        "id": "Levels",
+        "questions": [
+          "What's color of your childhood car?",
+          "What's type of your childhood car?",
+          "What's memory of your childhood car?"
+        ],
+        "prompt": "rear view of a {user_input}, indie film, surrealism, symmetrical, vibrant colors, nostalgic, florals, cinematic, evening sun, depth of field"
+      },
+      {
+        "title": "Hey Brother",
+        "id": "Hey_Brother",
+        "questions": [
+          "What city is featured in the holiday ad?",
+          "What event is being advertised in the holiday ad?",
+          "What specific location or landmark is highlighted in the holiday ad?",
+          "Are there any additional details or themes for the holiday ad?"
+        ],
+        "prompt": "A modern take on a vintage holiday travel ad of {user_input}, 4k, green, red, silver, glossy, snow, cinematic, realistic"
+      },
+      {
+        "title": "The Nights",
+        "id": "The_Nights",
+        "questions": [
+          "What is diving into the cup?",
+          "what is a color that calms you?"
+        ],
+        "prompt": "A close up of a miniature {user_input1} in a vintage bathing suit diving into a porcelain cup, from a top a long, rectangular diving board, highly detailed, chamomile, shades of {user_input2}, cinematic"
+      }
+    ]
+  },
+  "Tove_Lo": {
+    "songs": [
+      {
+        "title": "Habits (Stay High)",
+        "id": "Habits_(Stay_High)",
+        "questions": [
+          "What is the color of the forest?",
+          "what are the type of trees?"
+        ],
+        "prompt": "Award-winning cinematography, a still from a film shot on a vhs camcorder, abstract shot of a {user_input1} forest, vhs camcorder, tall {user_input2} as if someone is being followed, infinite forest, dark, dreamy, cinematic"
+      },
+      {
+        "title": "Talking Body",
+        "id": "Talking_Body",
+        "questions": [
+          "What's color of your childhood car?",
+          "What's type of your childhood car?",
+          "What's memory of your childhood car?"
+        ],
+        "prompt": "rear view of a {user_input}, indie film, surrealism, symmetrical, vibrant colors, nostalgic, florals, cinematic, evening sun, depth of field"
+      },
+      {
+        "title": "Glad He's Gone",
+        "id": "Glad_He's_Gone",
+        "questions": [
+          "What city is featured in the holiday ad?",
+          "What event is being advertised in the holiday ad?",
+          "What specific location or landmark is highlighted in the holiday ad?",
+          "Are there any additional details or themes for the holiday ad?"
+        ],
+        "prompt": "A modern take on a vintage holiday travel ad of {user_input}, 4k, green, red, silver, glossy, snow, cinematic, realistic"
+      },
+      {
+        "title": "Disco Tits",
+        "id": "Disco_Tits",
+        "questions": [
+          "What is diving into the cup?",
+          "what is a color that calms you?"
+        ],
+        "prompt": "A close up of a miniature {user_input1} in a vintage bathing suit diving into a porcelain cup, from a top a long, rectangular diving board, highly detailed, chamomile, shades of {user_input2}, cinematic"
+      }
+    ]
+  },
+  "Lykke_Li": {
+    "songs": [
+      {
+        "title": "I Follow Rivers",
+        "id": "I_Follow_Rivers",
+        "questions": [
+          "What is the color of the forest?",
+          "what are the type of trees?"
+        ],
+        "prompt": "Award-winning cinematography, a still from a film shot on a vhs camcorder, abstract shot of a {user_input1} forest, vhs camcorder, tall {user_input2} as if someone is being followed, infinite forest, dark, dreamy, cinematic"
+      },
+      {
+        "title": "Little Bit",
+        "id": "Little_Bit",
+        "questions": [
+          "What's color of your childhood car?",
+          "What's type of your childhood car?",
+          "What's memory of your childhood car?"
+        ],
+        "prompt": "rear view of a {user_input}, indie film, surrealism, symmetrical, vibrant colors, nostalgic, florals, cinematic, evening sun, depth of field"
+      },
+      {
+        "title": "Sadness Is a Blessing",
+        "id": "Sadness_Is_a_Blessing",
+        "questions": [
+          "What city is featured in the holiday ad?",
+          "What event is being advertised in the holiday ad?",
+          "What specific location or landmark is highlighted in the holiday ad?",
+          "Are there any additional details or themes for the holiday ad?"
+        ],
+        "prompt": "A modern take on a vintage holiday travel ad of {user_input}, 4k, green, red, silver, glossy, snow, cinematic, realistic"
+      },
+      {
+        "title": "No Rest for the Wicked",
+        "id": "No_Rest_for_the_Wicked",
+        "questions": [
+          "What is diving into the cup?",
+          "what is a color that calms you?"
+        ],
+        "prompt": "A close up of a miniature {user_input1} in a vintage bathing suit diving into a porcelain cup, from a top a long, rectangular diving board, highly detailed, chamomile, shades of {user_input2}, cinematic"
+      }
+    ]
+  },
+  "Robyn": {
+    "songs": [
+      {
+        "title": "Dancing On My Own",
+        "id": "Dancing_On_My_Own",
+        "questions": [
+          "What is the color of the forest?",
+          "what are the type of trees?"
+        ],
+        "prompt": "Award-winning cinematography, a still from a film shot on a vhs camcorder, abstract shot of a {user_input1} forest, vhs camcorder, tall {user_input2} as if someone is being followed, infinite forest, dark, dreamy, cinematic"
+      },
+      {
+        "title": "Call Your Girlfriend",
+        "id": "Call_Your_Girlfriend",
+        "questions": [
+          "What's color of your childhood car?",
+          "What's type of your childhood car?",
+          "What's memory of your childhood car?"
+        ],
+        "prompt": "rear view of a {user_input}, indie film, surrealism, symmetrical, vibrant colors, nostalgic, florals, cinematic, evening sun, depth of field"
+      },
+      {
+        "title": "With Every Heartbeat",
+        "id": "With_Every_Heartbeat",
+        "questions": [
+          "What city is featured in the holiday ad?",
+          "What event is being advertised in the holiday ad?",
+          "What specific location or landmark is highlighted in the holiday ad?",
+          "Are there any additional details or themes for the holiday ad?"
+        ],
+        "prompt": "A modern take on a vintage holiday travel ad of {user_input}, 4k, green, red, silver, glossy, snow, cinematic, realistic"
+      },
+      {
+        "title": "Hang With Me",
+        "id": "Hang_With_Me",
+        "questions": [
+          "What is diving into the cup?",
+          "what is a color that calms you?"
+        ],
+        "prompt": "A close up of a miniature {user_input1} in a vintage bathing suit diving into a porcelain cup, from a top a long, rectangular diving board, highly detailed, chamomile, shades of {user_input2}, cinematic"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "originstories-frontend",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "build:vpm": "turbo run build --filter=vpm",
+    "build:mantle": "turbo run build --filter=mantle",
+    "dev:vpm": "turbo run dev --filter=vpm",
+    "dev:mantle": "turbo run dev --filter=mantle",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "turbo": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "pnpm@8.6.10",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "pnpm": {
+    "packageExtensions": {
+      "@walletconnect/jsonrpc-provider": {
+        "dependencies": {
+          "events": "^3.3.0"
+        }
+      }
+    }
+  }
+}

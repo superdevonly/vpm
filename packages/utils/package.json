@@ -1,0 +1,16 @@
+{
+  "name": "@repo/utils",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./fetch-data": "./src/fetch-data.ts",
+    "./base64StringToBlob": "./src/base64StringToBlob.ts",
+    "./types": "./src/types.d.ts"
+  },
+  "scripts": {
+    "lint": "eslint . --max-warnings 0"
+  },
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}

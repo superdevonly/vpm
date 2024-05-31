@@ -1,0 +1,633 @@
+{
+  "questions_data": {
+    "Avicii": {
+      "3": [
+        "What kind of imagery comes to mind when you think about your sound?",
+        "What kind of colors are there?",
+        "What kind of energy do you want the image to have?"
+      ],
+      "7": [
+        "What kind of imagery comes to mind when you think about your sound?",
+        "What kind of colors are there?",
+        "What kind of energy do you want the image to have?",
+        "What is the style of the images you want to generate?",
+        "What type of subjects are in these visuals?",
+        "Where do the visuals take place?",
+        "Is there a main subject and action taking place?"
+      ],
+      "12": [
+        "What kind of imagery comes to mind when you think about your sound?",
+        "What kind of colors are there?",
+        "What kind of energy do you want the image to have?",
+        "What is the style of the images you want to generate?",
+        "What type of subjects are in these visuals?",
+        "Where do the visuals take place?",
+        "Is there a main subject and action taking place?",
+        "Do you want the image to be energetic and uplifting, or dark and mysterious?",
+        "What is the camera angle of the visuals (if not abstract)?",
+        "What kind of lighting do you want in the images?",
+        "What kind of emotions do you want to evoke in the viewer?",
+        "What is the mood or tone of the image?",
+        "Is there any era, time period you imagine the visuals of your song in?"
+      ]
+    },
+    "Tove Lo": {
+      "3": [
+        "What primary visual concept or theme should your design revolve around?",
+        "Choose a color palette that best represents your design's mood or purpose.",
+        "What emotion or feeling should your design evoke in its audience?"
+      ],
+      "7": [
+        "Describe any key imagery, patterns, or associations you envision in your design.",
+        "How do you want the colors to interact or contrast in your design?",
+        "Is your design intended to energize or soothe its viewers? Describe the intended energy.",
+        "What style or artistic influences should be evident in your design?",
+        "Are there any specific functional elements or features that need to be included?",
+        "How should the various elements be arranged or composed in your design?",
+        "Provide references or inspirations (historical, cultural, or contemporary)."
+      ],
+      "12": [
+        "Identify the central imagery or motifs that will define your design.",
+        "Detail the color scheme and how it should be applied in the design.",
+        "What overall mood or atmosphere should your design create?",
+        "Define the style or genre your design should align with.",
+        "List any key elements, subjects, or objects that should be included.",
+        "Are there any symbolic elements or motifs to incorporate for added depth?",
+        "Include any specific historical or cultural references to guide the design.",
+        "How and where will the design be used or applied?",
+        "What range of emotions do you intend to evoke through this design?",
+        "Provide specifics on color gradients, tones, and nuances required.",
+        "Describe the desired level of detail and complexity in your design.",
+        "Explain any cultural or symbolic significance to be considered in the design."
+      ]
+    },
+    "Artist3": {
+      "3": [
+        "What cinematic genre best captures the essence of your film?",
+        "Can you outline the primary narrative or thematic arc of your film?",
+        "How would you describe the overarching mood or atmosphere?"
+      ],
+      "7": [
+        "What cinematic genre best captures the essence of your film?",
+        "Can you outline the primary narrative or thematic arc of your film?",
+        "How would you describe the overarching mood or atmosphere?",
+        "Are there specific scenes or sequences that are pivotal to your film?",
+        "Which characters play a central role, and what are their key characteristics?",
+        "What visual style or cinematographic approach do you envision?",
+        "Are there films or directors that inspire or influence your vision?"
+      ],
+      "12": [
+        "What cinematic genre best captures the essence of your film?",
+        "Can you outline the primary narrative or thematic arc of your film?",
+        "How would you describe the overarching mood or atmosphere?",
+        "Are there specific scenes or sequences that are pivotal to your film?",
+        "Which characters play a central role, and what are their key characteristics?",
+        "What visual style or cinematographic approach do you envision?",
+        "Are there films or directors that inspire or influence your vision?",
+        "What iconic landmarks or settings play a significant role in your film?",
+        "What key visual elements or symbols are prominent in your film?",
+        "Are there specific settings, locations, or sets that are crucial?",
+        "Who is the intended audience, and how does it shape the film?",
+        "What technical aspects or equipment are integral to your vision?"
+      ]
+    }
+  },
+  "questions_options": {
+    "Avicii": {
+      "What kind of imagery comes to mind when you think about your sound?": [
+        "High Fashion",
+        "Models",
+        "Space",
+        "Tropical Vibes",
+        "Shibuya",
+        "Berlin Underground",
+        "Outdoor Rave"
+      ],
+      "What kind of colors are there?": [
+        "Muted and subdued colors",
+        "Complementary colors",
+        "Contrasting colors",
+        "Realistic colors",
+        "Fantastical colors"
+      ],
+      "What kind of energy do you want the image to have?": [
+        "Dynamic and exciting",
+        "Calm and peaceful",
+        "Movement and stillness",
+        "Energetic and uplifting",
+        "Dark and mysterious"
+      ],
+      "What is the style of the images you want to generate?": [
+        "Realistic",
+        "Cartoonish",
+        "Anime",
+        "Sci-Fi",
+        "Fantasy",
+        "Abstract"
+      ],
+      "What type of subjects are in these visuals?": [
+        "People",
+        "Abstract",
+        "Animals",
+        "Nature",
+        "Objects"
+      ],
+      "Where do the visuals take place?": [
+        "Forest",
+        "Beach",
+        "City",
+        "Countryside",
+        "Space",
+        "Underwater",
+        "Inside a house",
+        "Inside a building",
+        "Outside",
+        "At Night",
+        "During the Day",
+        "In a Warehouse"
+      ],
+      "Is there a main subject and action taking place?": [
+        "Couple Kissing",
+        "Friends watching sunset",
+        "Rave on a spaceship",
+        "Flying",
+        "Swimming in an ocean",
+        "Dancing in a club"
+      ],
+      "Do you want the image to be energetic and uplifting, or dark and mysterious?": [
+        "Energetic and uplifting",
+        "Dark and mysterious",
+        "Peaceful and serene",
+        "Dreamy and surreal",
+        "Realistic and grounded",
+        "Inviting and welcoming",
+        "Distant and alien"
+      ],
+      "What medium do you imagine for the visuals?": [
+        "Photorealistic (technicolour film, film noir, vhs camcorder, super8, CCTV, 4K)",
+        "Fine Art (oil painting, expressionist painting, cubist painting, abstract, impressionist)",
+        "Illustrated animation (comics, anime, graphic design, pop art, grafitti, fantasy art, surrealist)",
+        "Stop motion (clay, wool, puppet, lego)"
+      ],
+      "What is the camera angle of the visuals (if not abstract)?": [
+        "Close up",
+        "Aerial Shot",
+        "Wide Shot",
+        "Depth of Field"
+      ],
+      "What kind of lighting do you want in the images?": [
+        "Natural light",
+        "Artificial light",
+        "Soft light",
+        "Hard light",
+        "Direct light",
+        "Diffused light"
+      ],
+      "What kind of emotions do you want to evoke in the viewer?": [
+        "Happiness",
+        "Joy",
+        "Determination",
+        "Love",
+        "Hope",
+        "Passion",
+        "Party",
+        "Confidence"
+      ],
+      "What is the mood or tone of the image?": [
+        "Happy",
+        "joyful",
+        "Sad",
+        "melancholic",
+        "Dream",
+        "surreal",
+        "Realistic",
+        "grounded",
+        "Inviting and welcoming",
+        "Distant and alien"
+      ],
+      "Is there any era, time period you imagine the visuals of your song in?": [
+        "The past",
+        "The present",
+        "The future",
+        "A specific time period (e.g., 1920's, 1960s, 1980s, 2000s)"
+      ]
+    },
+    "Tove Lo": {
+      "What primary visual concept or theme should your design revolve around?": [
+        "Abstract Concepts",
+        "Nature and Environment",
+        "Futuristic and Technology",
+        "Cultural Themes",
+        "Personal Memories",
+        "Social Messages",
+        "Artistic Movements",
+        "Sci-fi and Fantasy",
+        "Urban Life",
+        "Historical Eras"
+      ],
+      "Choose a color palette that best represents your design's mood or purpose.": [
+        "Warm and Vibrant",
+        "Cool and Calming",
+        "Monochromatic",
+        "Complementary",
+        "Analogous",
+        "High Contrast",
+        "Pastel Tones",
+        "Earthy and Natural",
+        "Neon and Bright",
+        "Dark and Moody"
+      ],
+      "What emotion or feeling should your design evoke in its audience?": [
+        "Excitement and Energy",
+        "Calmness and Tranquility",
+        "Curiosity and Intrigue",
+        "Happiness and Joy",
+        "Nostalgia and Sentimentality",
+        "Thoughtfulness and Introspection",
+        "Surprise and Amazement",
+        "Comfort and Familiarity",
+        "Tension and Drama",
+        "Elegance and Sophistication"
+      ],
+      "Describe any key imagery, patterns, or associations you envision in your design.": [
+        "Geometric Shapes",
+        "Organic and Flowing Lines",
+        "Textural Elements",
+        "Cinematic Scenes",
+        "Minimalist Forms",
+        "Bold and Graphic",
+        "Surreal and Dreamlike",
+        "Historical References",
+        "Futuristic Visions",
+        "Cultural Motifs"
+      ],
+      "How do you want the colors to interact or contrast in your design?": [
+        "Harmonious and Blending",
+        "Striking and Bold Contrasts",
+        "Complementary Pairings",
+        "Subtle and Muted Tones",
+        "Gradient Transitions",
+        "Color Blocking",
+        "Monochromatic with Accents",
+        "Earthy and Organic",
+        "Neon and Luminous",
+        "Black, White, and Grayscales"
+      ],
+      "Is your design intended to energize or soothe its viewers? Describe the intended energy.": [
+        "Vibrant and Dynamic",
+        "Calm and Serene",
+        "Uplifting and Inspiring",
+        "Mellow and Relaxing",
+        "Intense and Energetic",
+        "Subdued and Soothing",
+        "Playful and Cheerful",
+        "Thought-provoking and Deep",
+        "Invigorating and Stimulating",
+        "Peaceful and Zen-like"
+      ],
+      "What style or artistic influences should be evident in your design?": [
+        "Modern Minimalism",
+        "Vintage and Retro",
+        "Avant-Garde and Experimental",
+        "Art Deco Elegance",
+        "Abstract Expressionism",
+        "Urban Street Art",
+        "Traditional and Classical",
+        "Digital and Futuristic",
+        "Bohemian and Eclectic",
+        "Industrial and Functional"
+      ],
+      "Are there any specific functional elements or features that need to be included?": [
+        "Ergonomic Features",
+        "Interactive Components",
+        "Sustainable Materials",
+        "User-Centric Design",
+        "Modular and Adaptable",
+        "Technology Integration",
+        "Space-Saving Solutions",
+        "Customizable Aspects",
+        "Accessibility Considerations",
+        "Durability and Longevity"
+      ],
+      "How should the various elements be arranged or composed in your design?": [
+        "Symmetrical and Balanced",
+        "Asymmetrical and Dynamic",
+        "Layered and Depth-Driven",
+        "Focal Point and Emphasis",
+        "Rhythmic and Repetitive",
+        "Random and Freeform",
+        "Hierarchical and Structured",
+        "Integrated and Cohesive",
+        "Fragmented and Abstract",
+        "Flowing and Continuous"
+      ],
+      "Provide references or inspirations (historical, cultural, or contemporary).": [
+        "Historical Art Movements",
+        "Contemporary Design Trends",
+        "Cultural and Ethnic Art",
+        "Nature and Landscape Inspirations",
+        "Urban and Architectural Influences",
+        "Personal Life Experiences",
+        "Famous Artworks and Artists",
+        "Technological and Scientific Breakthroughs",
+        "Cinema and Literature",
+        "Global Travel and Exploration"
+      ],
+      "Identify the central imagery or motifs that will define your design.": [
+        "Iconic landmarks",
+        "Natural landscapes",
+        "Abstract forms",
+        "Human figures",
+        "Urban architecture",
+        "Mythical creatures",
+        "Technological elements",
+        "Floral and botanical",
+        "Celestial and cosmic",
+        "Cultural icons"
+      ],
+      "Detail the color scheme and how it should be applied in the design.": [
+        "Complementary palettes",
+        "Analogous color harmony",
+        "Monochromatic tones",
+        "Bold and vibrant contrasts",
+        "Pastel and soft hues",
+        "Natural and earthy colors",
+        "Metallic accents",
+        "Black, white, and grayscale",
+        "Neon and luminous",
+        "Muted and subdued"
+      ],
+      "What overall mood or atmosphere should your design create?": [
+        "Invigorating and lively",
+        "Soothing and calm",
+        "Mysterious and intriguing",
+        "Bright and cheerful",
+        "Serene and peaceful",
+        "Dramatic and intense",
+        "Whimsical and playful",
+        "Elegant and sophisticated",
+        "Rustic and cozy",
+        "Futuristic and innovative"
+      ],
+      "Define the style or genre your design should align with.": [
+        "Modern and contemporary",
+        "Vintage and retro",
+        "Industrial and urban",
+        "Rustic and natural",
+        "Art Deco and geometric",
+        "Bohemian and eclectic",
+        "Minimalist and clean",
+        "Maximalist and detailed",
+        "Surrealist and dreamy",
+        "Classical and traditional"
+      ],
+      "List any key elements, subjects, or objects that should be included.": [
+        "Architectural structures",
+        "Geometric shapes",
+        "Organic elements",
+        "Typography and lettering",
+        "Portrait and figures",
+        "Landscape and scenery",
+        "Animals and wildlife",
+        "Abstract patterns",
+        "Cultural symbols",
+        "Mechanical and technical"
+      ],
+      "Are there any symbolic elements or motifs to incorporate for added depth?": [
+        "Historical symbols",
+        "Cultural motifs",
+        "Spiritual and religious icons",
+        "Nature and environmental",
+        "Scientific and mathematical",
+        "Mythological symbols",
+        "Abstract concepts",
+        "Political and social themes",
+        "Literary references",
+        "Personal and autobiographical"
+      ],
+      "Include any specific historical or cultural references to guide the design.": [
+        "Ancient civilizations",
+        "Medieval and Gothic",
+        "Renaissance art",
+        "Baroque and Rococo",
+        "Industrial revolution",
+        "Modernist movements",
+        "Postmodern and contemporary",
+        "Folk art and traditions",
+        "Pop culture and media",
+        "Futurism and speculative"
+      ],
+      "How and where will the design be used or applied?": [
+        "Digital media and web",
+        "Print and publication",
+        "Product and packaging",
+        "Fashion and apparel",
+        "Interior and spaces",
+        "Public art and murals",
+        "Film and animation",
+        "Branding and marketing",
+        "Exhibitions and installations",
+        "Educational and instructional"
+      ],
+      "What range of emotions do you intend to evoke through this design?": [
+        "Joy and happiness",
+        "Curiosity and surprise",
+        "Nostalgia and sentiment",
+        "Reflection and introspection",
+        "Excitement and anticipation",
+        "Calmness and relaxation",
+        "Amazement and awe",
+        "Empathy and compassion",
+        "Challenge and motivation",
+        "Contemplation and depth"
+      ],
+      "Provide specifics on color gradients, tones, and nuances required.": [
+        "Smooth and subtle gradients",
+        "Sharp and high contrast",
+        "Warm and cool juxtapositions",
+        "Complementary color transitions",
+        "Monochromatic shading",
+        "Vibrant and saturated",
+        "Muted and desaturated",
+        "Metallic and shiny",
+        "Glowing and luminescent",
+        "Natural and organic"
+      ],
+      "Describe the desired level of detail and complexity in your design.": [
+        "Highly intricate and detailed",
+        "Moderate and balanced",
+        "Minimalist and sparse",
+        "Complex and multi-layered",
+        "Simple and straightforward",
+        "Abstract and conceptual",
+        "Realistic and lifelike",
+        "Stylized and artistic",
+        "Textural and tactile",
+        "Geometric and structured"
+      ],
+      "Explain any cultural or symbolic significance to be considered in the design.": [
+        "Cultural heritage and traditions",
+        "Symbolic meanings and representations",
+        "Social and political commentary",
+        "Religious and spiritual beliefs",
+        "Ethnic and regional styles",
+        "Historical and period themes",
+        "Global and international influences",
+        "Personal and family history",
+        "Community and societal values",
+        "Philosophical and ideological"
+      ]
+    },
+    "Lykke Li": {
+      "What cinematic genre best captures the essence of your film?": [
+        "Drama",
+        "Comedy",
+        "Thriller",
+        "Action",
+        "Romance",
+        "Horror",
+        "Science Fiction",
+        "Documentary",
+        "Fantasy",
+        "Adventure"
+      ],
+      "Can you outline the primary narrative or thematic arc of your film?": [
+        "Hero's journey",
+        "Character-driven drama",
+        "Complex thriller",
+        "High-octane action",
+        "Heartfelt romance",
+        "Psychological horror",
+        "Futuristic exploration",
+        "Social documentary",
+        "Mythical fantasy",
+        "Epic adventure"
+      ],
+      "How would you describe the overarching mood or atmosphere?": [
+        "Intimate and personal",
+        "Light-hearted and humorous",
+        "Tense and suspenseful",
+        "Fast-paced and exhilarating",
+        "Romantic and emotional",
+        "Dark and foreboding",
+        "Thought-provoking and reflective",
+        "Realistic and raw",
+        "Magical and otherworldly",
+        "Grand and awe-inspiring"
+      ],
+      "Are there specific scenes or sequences that are pivotal to your film?": [
+        "Climactic showdown",
+        "Emotional confrontation",
+        "Thrilling chase",
+        "Romantic encounter",
+        "Terrifying encounter",
+        "Futuristic battle",
+        "Historical reenactment",
+        "Dream or fantasy sequence",
+        "Introspective moment",
+        "Action-packed opener"
+      ],
+      "Which characters play a central role, and what are their key characteristics?": [
+        "Protagonist's journey",
+        "Antagonist's motive",
+        "Supporting character's impact",
+        "Love interest's role",
+        "Villain's threat",
+        "Mentor's wisdom",
+        "Outsider's perspective",
+        "Comic relief's timing",
+        "Tragic figure's pathos",
+        "Dynamic duo's chemistry"
+      ],
+      "What visual style or cinematographic approach do you envision?": [
+        "Handheld realism",
+        "Sweeping widescreen",
+        "Stylized noir",
+        "Vibrant color palette",
+        "Minimalist compositions",
+        "Dynamic action sequences",
+        "Dreamy soft focus",
+        "Sharp and crisp high-definition",
+        "Retro film aesthetic",
+        "Experimental angles and framing"
+      ],
+      "Are there films or directors that inspire or influence your vision?": [
+        "Classic auteur's style",
+        "Contemporary visionary's approach",
+        "Cult film's uniqueness",
+        "Award-winning masterpiece's craftsmanship",
+        "Genre-defining work's impact",
+        "Independent film's creativity",
+        "Blockbuster's spectacle",
+        "Documentary's authenticity",
+        "Animation's charm",
+        "Foreign cinema's perspective"
+      ],
+      "What iconic landmarks or settings play a significant role in your film?": [
+        "Metropolitan cityscape",
+        "Rural countryside",
+        "Futuristic dystopia",
+        "Historical landmarks",
+        "Fantastical worlds",
+        "Isolated island",
+        "Space station or otherworldly setting",
+        "Underwater scenes",
+        "Deserted wasteland",
+        "Urban underground scenes"
+      ],
+      "What key visual elements or symbols are prominent in your film?": [
+        "Intricate costumes and fashion",
+        "Advanced technology and gadgets",
+        "Nature and wilderness",
+        "Architectural marvels",
+        "Mystical artifacts or relics",
+        "Dynamic weather conditions",
+        "Symbolic color schemes",
+        "Unique vehicles or transportation",
+        "Stylized weaponry",
+        "Ethereal light and shadow play"
+      ],
+      "Are there specific settings, locations, or sets that are crucial?": [
+        "Urban cityscape's energy",
+        "Rural landscape's tranquility",
+        "Historical setting's authenticity",
+        "Futuristic environment's innovation",
+        "Fantasy world's imagination",
+        "Isolated and claustrophobic space",
+        "Expansive and open nature",
+        "Intimate indoor setting",
+        "Stylized and artificial set",
+        "Gritty and realistic locale"
+      ],
+      "Who is the intended audience, and how does it shape the film?": [
+        "General family audience",
+        "Adults seeking depth and complexity",
+        "Teens and young adults",
+        "Cult film aficionados",
+        "Art-house cinema lovers",
+        "Mainstream blockbuster crowd",
+        "Specialized niche audience",
+        "Global international viewers",
+        "Educational and informative focus",
+        "Genre enthusiasts and fans"
+      ],
+      "What technical aspects or equipment are integral to your vision?": [
+        "Advanced digital effects",
+        "Practical and in-camera effects",
+        "High-quality sound design",
+        "Immersive 3D or VR experience",
+        "Classic film cameras and techniques",
+        "Cutting-edge camera technology",
+        "Minimalist and low-budget approach",
+        "Animation and motion capture",
+        "Specialized lighting setup",
+        "Custom-built rigs and equipment"
+      ]
+    }
+  },
+  "song_data": {
+    "Avicii": ["Wake Me Up", "Levels", "Hey Brother"],
+    "Tove Lo": ["Habits (Stay High)", "Talking Body", "Moments"],
+    "Lykke Li": ["I Follow Rivers", "Little Bit", "No Rest for the Wicked"]
+  }
+}
